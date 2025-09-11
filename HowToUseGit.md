@@ -41,7 +41,7 @@ Or
 
 
 
-*Note: It is the best practice to initiate ``` git pull ``` first before cloning, publishing, or working on the repository, in general*
+*Note: After ``` git remote add origin <Your git repo URL> ```, it is the best practice to initiate ``` git pull ``` first before cloning, publishing, or working on the repository, in general*
 
 
 
