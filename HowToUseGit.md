@@ -9,7 +9,7 @@ This method is fast and time-saving for programmers.
 # Table of Contents
 
 1. [First Time User](#-first-time-user)
-2. []
+2. [Remote Connection](#-remote-connection)
 
 ============================================================================================
 
@@ -57,7 +57,7 @@ To find this URL, I will take this repository as an example:
 ```
 https://github.com/MJeat/Github_Foundation.git
 ```
-
+============================================================================================
 # 2. Remote Connection
 Next, back to your VSCode, open the terminal of that folder/directory that you wish to connect VSCode to GitHub 
 
