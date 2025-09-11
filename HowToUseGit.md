@@ -13,8 +13,17 @@ This method is fast and time-saving for programmers.
 
 
 ### *Step 2*: 
-```
-On your computer, create a directory/folder and call it the same or a similar name to your repository
-```
+
+- On your computer, create a directory/folder and call it the same or a similar name to your repository
+
+### *Step 3*: 
+- Enable Git:
+  ```
+  git init
+  ```
+If, however, no Git is found, you may need to install git:
+  ```
+  winget install --id Git.Git -e --source winget
+  ```
 
 
