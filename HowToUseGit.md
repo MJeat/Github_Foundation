@@ -8,7 +8,7 @@ This method is fast and time-saving for programmers.
 ============================================================================================
 # Table of Contents
 
-1. [First Time User]
+1. [First Time User](@firsttimeuser)
 
 ============================================================================================
 
