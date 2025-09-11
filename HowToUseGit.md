@@ -13,7 +13,6 @@ This method is fast and time-saving for programmers.
 1. [First Time User](#1-first-time-user)
 2. [Remote Connection](#2-remote-connection)
 3. [Working With Git](#3-working-with-git)
-
 3.1.[For Empty Repository on Github](#3.1-for-empty-repository-on-github)
 4. [Tips & Errors]()
 5. 
@@ -97,7 +96,7 @@ git remote remove origin
 # 3. Working With Git
 This is a walkthrough.
 
-## 3.1. For Empty Repository on Github
+## 3.1 For Empty Repository on Github
 Please enter these code lines one at a time
 ```
 git init
