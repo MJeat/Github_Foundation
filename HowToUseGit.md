@@ -8,8 +8,8 @@ This method is fast and time-saving for programmers.
 ============================================================================================
 # Table of Contents
 
-1. [First Time User](#-first-time-user)
-2. [Remote Connection](#-remote-connection)
+1. [First Time User](#1-first-time-user)
+2. [Remote Connection](#2-remote-connection)
 
 ============================================================================================
 
@@ -92,11 +92,16 @@ This is a walkthrough.
 ## *For Empty Repository on Github*
 Please enter these code lines one at a time
 ```
+git pull --allow-unrelated-histories origin main   # Pull first to sync with remote (even if empty)
 git init
 git add <Your files>
-git commit -m "first commit"
+```
+If you want to add all files and folders, try: ```git add .```
+Next,
+```
+git commit -m "first commit"   # This is your update message to the team or solo 
 git branch -M main
-git remote add origin https://github.com/MJeat/test.git
+git remote add origin <Your git repo URL>
 git push -u origin main
 ```
 
