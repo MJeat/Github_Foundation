@@ -235,12 +235,3 @@ Below are the examples of authors' names and links to their portfolio or any onl
 - Use **relative links** for files inside your project.
 - Preview your README before pushing — GitHub renders it automatically.
 
----
-
-Would you like me to help you write a custom `README.md` for your **chat app project**? I can include:
-- Setup instructions
-- Screenshots
-- Feature list
-- Usage examples
-
-Just say the word! 😊
