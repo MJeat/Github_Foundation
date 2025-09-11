@@ -35,7 +35,7 @@ Or
   ```
   Reinitialized existing Git repository in D:/...
   ```
-=============================================================
+===============================================================================================
 # *Working With Git*
 ### *For Empty Repository on Github*
 Please enter these code lines one at a time
