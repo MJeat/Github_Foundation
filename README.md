@@ -46,7 +46,7 @@ This is the second paragraph.
 For a line break inside a paragraph, add two spaces at the end of the line:
 ```markdown
 First line  
-Second line (on new line)
+Second line (on a new line)
 ```
 
 ---
