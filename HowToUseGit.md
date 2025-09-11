@@ -7,12 +7,14 @@ This method is fast and time-saving for programmers.
 
 # First Time User
 ### *Step 1*
-```
+
 - Create a GitHub account, one repository, and name it according to your preference
 - For the repository, you may create or not create the README.md file. After that, proceed to create the repository 
+
+
+### *Step 2*: 
 ```
-
-*Step 2*: On your computer, create a directory/folder and call it the same or a similar name to your repository
-
+On your computer, create a directory/folder and call it the same or a similar name to your repository
+```
 
 
