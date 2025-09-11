@@ -6,24 +6,42 @@ Another benefit of using Git Command Lines from VSCode is the quick and easy col
 This method is fast and time-saving for programmers. 
 
 # First Time User
-### *Step 1*
+### *Step 1 - Creating GitHub Account and Repository*
 
 - Create a GitHub account, one repository, and name it according to your preference
 - For the repository, you may create or not create the README.md file. After that, proceed to create the repository 
 
 
-### *Step 2*: 
+### *Step 2 - Creating a Folder*
 
 - On your computer, create a directory/folder and call it the same or a similar name to your repository
 
-### *Step 3*: 
-- Enable Git:
+### *Step 3 - Enabling Git*
+Enable Git:
   ```
   git init
   ```
+
 If, however, no Git is found, you may need to install git:
   ```
   winget install --id Git.Git -e --source winget
   ```
+
+After enabling git, you should see this output:
+  ```
+  Initialized empty Git repository in D:/...
+  ```
+Or
+  ```
+  Reinitialized existing Git repository in D:/...
+  ```
+
+### *Step 4 - Working With Git*
+
+
+
+
+
+
 
 
