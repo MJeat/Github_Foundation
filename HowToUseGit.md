@@ -2,7 +2,7 @@
 *Note: The documentation below is for beginner and intermediate GitHub and VSCode users* 
 
 The documentation is about how to use git on VSCode to remotely publish file codes and the entire directories/folders into GitHub via git command lines. 
-Another benefit of using Git Command Lines from VSCode is the quick and easy collaboration with people. Dragging and dropping folders and file through GitHub applications or web-page can be annoying, and can sometimes lead to errors or missing files or libraries.
+Another benefit of using Git Command Lines from VSCode is the quick and easy collaboration with others. Dragging and dropping folders and files through GitHub applications or webpages can be annoying, and can sometimes lead to errors or missing files or libraries.
 This method is fast and time-saving for programmers. 
 
 # First Time User
@@ -35,9 +35,21 @@ Or
   ```
   Reinitialized existing Git repository in D:/...
   ```
-===============================================================================================
+
+## *Step 4 - Checking Remote*
+In order to publish from VSCode to the GitHub app or webpage, your VSCode needs to be connected to your GitHub repository URL. 
+To find this URL, I will take this repository as an example:
+- On the top left corner, click Github_Foundation
+- Look in the middle of the screen
+- Try to find the read button that says "Code"
+
+
+
+
+============================================================================================
 # *Working With Git*
-### *For Empty Repository on Github*
+This is a walkthrough.
+## *For Empty Repository on Github*
 Please enter these code lines one at a time
 ```
 git init
