@@ -111,7 +111,7 @@ You can specify language (`java`, `python`, etc.) for syntax highlighting.
 
 ### 6. 🟰 Tables
 
-✅ Yes, you **can make tables** in Markdown!
+You **can also make tables** in Markdown!
 
 ```markdown
 | Name         | Description                  | Type       |
