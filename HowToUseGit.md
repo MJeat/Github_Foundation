@@ -9,10 +9,11 @@ This method is fast and time-saving for programmers.
 # Table of Contents
 
 1. [First Time User](#-first-time-user)
+2. []
 
 ============================================================================================
 
-# First Time User
+# 1. First Time User
 ## *Step 1 - Creating GitHub Account and Repository*
 
 - Create a GitHub account, one repository, and name it according to your preference
@@ -57,7 +58,7 @@ To find this URL, I will take this repository as an example:
 https://github.com/MJeat/Github_Foundation.git
 ```
 
-### *Remote Connection*
+### 2. Remote Connection
 Next, back to your VSCode, open the terminal of that folder/directory that you wish to connect VSCode to GitHub 
 
 #### CHECK
@@ -85,7 +86,7 @@ git remote remove origin
 ```
 
 ============================================================================================
-# *Working With Git*
+# 3. Working With Git
 This is a walkthrough.
 
 ## *For Empty Repository on Github*
