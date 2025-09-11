@@ -8,7 +8,7 @@ Another benefit of using Git Command Lines from VSCode is the quick and easy col
 This method is fast and time-saving for programmers. 
 
 ============================================================================================
-# Table of Contents
+# 🔗 Table of Contents
 
 1. [First Time User](#1-first-time-user)
 2. [Remote Connection](#2-remote-connection)
