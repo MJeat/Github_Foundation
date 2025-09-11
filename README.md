@@ -233,3 +233,4 @@ Below are the examples of authors' names and links to their portfolio or any onl
 - Use **relative links** for files inside your project.
 - Preview your README before pushing — GitHub renders it automatically.
 
+*_The Information Above Was Written by Qwen AI_* 
