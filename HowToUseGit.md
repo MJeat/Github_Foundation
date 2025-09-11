@@ -41,7 +41,13 @@ In order to publish from VSCode to the GitHub app or webpage, your VSCode needs 
 To find this URL, I will take this repository as an example:
 - On the top left corner, click Github_Foundation
 - Look in the middle of the screen
-- Try to find the read button that says "Code"
+- Try to find the read button that says ``` <> Code ```. Click on it
+- In HTTPS, copy the link.
+- The GitHub repository URL should look like this
+```
+https://github.com/MJeat/Github_Foundation.git
+```
+
 
 
 
