@@ -16,7 +16,7 @@ This method is fast and time-saving for programmers.
 
 - On your computer, create a directory/folder and call it the same or a similar name to your repository
 
-### *Step 3 - Enabling Git*
+## *Step 3 - Enabling Git*
 Enable Git:
   ```
   git init
@@ -36,10 +36,12 @@ Or
   Reinitialized existing Git repository in D:/...
   ```
 
-### *Step 4 - Working With Git*
+## *Step 4 - Working With Git*
+### *For Empty Repository on Github*
 
 
 
+*Note: It is the best practice to initiate ``` git pull ``` first before cloning, publishing, or working on the repository, in general*
 
 
 
