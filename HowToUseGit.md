@@ -106,9 +106,7 @@ git push -u origin main
 ```
 
 
-*Note: After ``` git remote add origin <Your git repo URL> ```, it is the best practice to initiate ``` git pull ``` first before cloning, publishing, or working on the repository, in general. Otherwise, you will get this error
-```! [rejected] main -> main (non-fast-forward)```
-*
+*Note: After ``` git remote add origin <Your git repo URL> ```, it is the best practice to initiate ``` git pull ``` first before cloning, publishing, or working on the repository, in general. Otherwise, you will get this error ```! [rejected] main -> main (non-fast-forward)```*
 
 
 
