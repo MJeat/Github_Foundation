@@ -224,9 +224,7 @@ Socket socket = serverSocket.accept();
 Below are the examples of authors' names and links to their portfolio or any online sites: 
 - John Doe ([@johndoe](https://github.com/johndoe))
 - Jane Smith ([@janesmith](https://github.com/janesmith))
-```
 
----
 
 ## 💡 Pro Tips
 
