@@ -1,3 +1,5 @@
+# Completion Status: Incomplete
+
 # How To Use Git
 *Note: The documentation below is for beginner and intermediate GitHub and VSCode users* 
 
@@ -10,6 +12,9 @@ This method is fast and time-saving for programmers.
 
 1. [First Time User](#1-first-time-user)
 2. [Remote Connection](#2-remote-connection)
+3. [Working With Git](#3-working-with-git)
+4. [Tips & Errors]()
+
 
 ============================================================================================
 
