@@ -38,6 +38,8 @@ Or
 
 ## *Step 4 - Checking Remote*
 In order to publish from VSCode to the GitHub app or webpage, your VSCode needs to be connected to your GitHub repository URL. 
+
+### *Find Git Repository URL*
 To find this URL, I will take this repository as an example:
 - On the top left corner, click Github_Foundation
 - Look in the middle of the screen
@@ -48,9 +50,32 @@ To find this URL, I will take this repository as an example:
 https://github.com/MJeat/Github_Foundation.git
 ```
 
+### *Remote Connection*
+Next, back to your VSCode, open the terminal of that folder/directory that you wish to connect VSCode to GitHub 
 
+#### Check
+In the terminal, type:
+```
+git remote -v
+```
+This is to check if you have the remote GitHub repo URL yet. If it shows something like this, then congrats:
+```
+origin  https://github.com/MJeat/java.git (fetch)
+origin  https://github.com/MJeat/java.git (push)
+```
 
+#### Add
+If it shows nothing, then proceed to add it:
+```
+git remote add origin <Your git repo URL> 
+```
+Then, you can check it again using _git remote -v_
 
+#### Remove
+If you wish to remove or change the URL:
+```
+git remote remove origin 
+```
 
 ============================================================================================
 # *Working With Git*
