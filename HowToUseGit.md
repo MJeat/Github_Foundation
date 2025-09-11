@@ -13,7 +13,7 @@ This method is fast and time-saving for programmers.
 1. [First Time User](#1-first-time-user)
 2. [Remote Connection](#2-remote-connection)
 3. [Working With Git](#3-working-with-git)
-   3.1. [For Empty Repository on Github](#3.1-for-empty-repository-on-github)  
+3.1. [For Empty Repository on Github](#3.1-for-empty-repository-on-github)
 4. [Tips & Errors]()
 5. 
 
@@ -96,28 +96,60 @@ git remote remove origin
 # 3. Working With Git
 This is a walkthrough.
 
-## *3.1. For Empty Repository on Github*
+## 3.1. For Empty Repository on Github
 Please enter these code lines one at a time
 ```
-git pull --allow-unrelated-histories origin main   # Pull first to sync with remote (even if empty)
 git init
+
+git remote add origin <Your git repo URL>
+
+git pull --allow-unrelated-histories origin main   # Pull first to sync with remote (even if empty)
+
 git add <Your files>
+
 ```
+
 If you want to add all files and folders, try: ```git add .```
 Next,
+
 ```
-git commit -m "first commit"   # This is your update message to the team or solo 
+
+git commit -m "first commit"   # This is your update message to the team or solo
+
 git branch -M main
+
 git remote add origin <Your git repo URL>
+
 git push -u origin main
+
 ```
 
-## *To Update Files & Folders on Github*
+## To Update Files & Folders on Github
+Simple:
+```
 
+git init
 
+git pull --allow-unrelated-histories origin main   # Pull first to sync with remote (even if empty)
 
+git add <Your files>
+
+git commit -m "first commit"   # This is your update message to the team or solo
+
+git remote add origin <Your git repo URL>  # No need to write this if you already checked the remote connection link from 2. Remote Connection
+
+git branch -M main
+
+git push -u origin main
+
+```
 
 *Note: After ``` git remote add origin <Your git repo URL> ```, it is the best practice to initiate ``` git pull ``` first before cloning, publishing, or working on the repository, in general. Otherwise, you will get this error ```! [rejected] main -> main (non-fast-forward)```*
+
+============================================================================================
+
+
+
 
 
 
