@@ -58,10 +58,10 @@ To find this URL, I will take this repository as an example:
 https://github.com/MJeat/Github_Foundation.git
 ```
 
-### 2. Remote Connection
+# 2. Remote Connection
 Next, back to your VSCode, open the terminal of that folder/directory that you wish to connect VSCode to GitHub 
 
-#### CHECK
+## CHECK
 In the terminal, type:
 ```
 git remote -v
@@ -72,14 +72,14 @@ origin  https://github.com/MJeat/java.git (fetch)
 origin  https://github.com/MJeat/java.git (push)
 ```
 
-#### ADD
+## ADD
 If it shows nothing, then proceed to add it:
 ```
 git remote add origin <Your git repo URL> 
 ```
 Then, you can check it again using _git remote -v_
 
-#### REMOVE
+## REMOVE
 If you wish to remove or change the URL:
 ```
 git remote remove origin 
