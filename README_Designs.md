@@ -239,7 +239,7 @@ Format: ` [{DISPLAY-NAME}](#1-{your-main-points-all-lowercase}) `
 
 Example:
 
-[Test Content](#3--bullet-points-unordered-lists))
+TRY: [Test Content](#3--bullet-points-unordered-lists)
 
 Or you could simply go to the chain, click, and copy the URL and paste:
 
