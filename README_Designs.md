@@ -236,9 +236,9 @@ Below are the examples of authors' names and links to their portfolio or any onl
 ### 10. Table of contents
 Format: ` [{DISPLAY-NAME}](#1-{YOUR-MAIN-POINT}) `
 Example:
-[Test Content](#11-Testing-table-of-contents)
+[Test Content](#1-🔲-Bullet-Points-(Unordered-Lists))
 
-### 11. Testing table of contents
+
 
 
 
