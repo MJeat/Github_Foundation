@@ -235,9 +235,14 @@ Below are the examples of authors' names and links to their portfolio or any onl
 
 
 ### 10. Table of contents
-Format: ` [{DISPLAY-NAME}](#1-{YOUR-MAIN-POINT}) `
+Format: ` [{DISPLAY-NAME}](#1-{your-main-points-all-lowercase}) `
 Example:
 [Test Content](#3--bullet-points-unordered-lists))
+
+Or you could simply go to this and copy the URL and paste:
+
+
+
 
 
 
