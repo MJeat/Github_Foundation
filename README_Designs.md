@@ -236,10 +236,13 @@ Below are the examples of authors' names and links to their portfolio or any onl
 
 ### 10. Table of contents
 Format: ` [{DISPLAY-NAME}](#1-{your-main-points-all-lowercase}) `
+
 Example:
+
 [Test Content](#3--bullet-points-unordered-lists))
 
 Or you could simply go to the chain, click, and copy the URL and paste:
+
 <img width="486" height="72" alt="image" src="https://github.com/user-attachments/assets/bfb1a9c9-9f13-49c0-96a9-abb68c4a3bba" />
 
 
