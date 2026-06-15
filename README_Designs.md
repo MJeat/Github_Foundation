@@ -231,6 +231,19 @@ Below are the examples of authors' names and links to their portfolio or any onl
 - Always name it `README.md` (case-sensitive on some systems).
 - Put it in the root folder of your repo.
 - Use **relative links** for files inside your project.
+
+
+### 10. Table of contents
+Format: ` [{DISPLAY-NAME}](#1-{YOUR-MAIN-POINT}) `
+Example:
+[Test Content](#11-Testing-table-of-contents)
+
+### 11. Testing table of contents
+
+
+
+
+
 - Preview your README before pushing — GitHub renders it automatically.
 
 
